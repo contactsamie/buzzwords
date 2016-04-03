@@ -24,3 +24,6 @@ at least once delivery (which is available using akka persistence)
 
 Indempotent
 Immutable
+
+Subcutaneous testing : Test that operates just under the UI of an application. This is particulary valuable when doing functional testing of an application: when you want to test end-to-end behavior, but it's difficult to test through the UI itself.
+
