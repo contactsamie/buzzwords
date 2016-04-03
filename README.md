@@ -1,5 +1,3 @@
-# buzzwords
-buzz....
 
 API
 
